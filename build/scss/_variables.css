@@ -1,0 +1,73 @@
+/**
+ * Do not edit directly
+ * Generated on Fri, 09 Sep 2022 04:12:49 GMT
+ */
+
+:root {
+  --sd-global-link-25: #f5faff;
+  --sd-global-link-50: #eff8ff;
+  --sd-global-link-100: #d1e9ff;
+  --sd-global-link-200: #b2ddff;
+  --sd-global-link-300: #84caff;
+  --sd-global-link-400: #53b1fd;
+  --sd-global-link-500: #2e90fa;
+  --sd-global-link-600: #1570ef;
+  --sd-global-link-700: #175cd3;
+  --sd-global-link-800: #1849a9;
+  --sd-global-link-900: #194185;
+  --sd-global-success-25: #f6fef9;
+  --sd-global-success-50: #ecfdf3;
+  --sd-global-success-100: #d1fadf;
+  --sd-global-success-200: #a6f4c5;
+  --sd-global-success-300: #6ce9a6;
+  --sd-global-success-400: #32d583;
+  --sd-global-success-500: #12b76a;
+  --sd-global-success-600: #039855;
+  --sd-global-success-700: #027a48;
+  --sd-global-success-800: #05603a;
+  --sd-global-success-900: #054f31;
+  --sd-global-warning-25: #fffcf5;
+  --sd-global-warning-50: #fffaeb;
+  --sd-global-warning-100: #fef0c7;
+  --sd-global-warning-200: #fedf89;
+  --sd-global-warning-300: #fec84b;
+  --sd-global-warning-400: #fdb022;
+  --sd-global-warning-500: #f79009;
+  --sd-global-warning-600: #dc6803;
+  --sd-global-warning-700: #b54708;
+  --sd-global-warning-800: #93370d;
+  --sd-global-warning-900: #7a2e0e;
+  --sd-global-error-25: #fffbfa;
+  --sd-global-error-50: #fef3f2;
+  --sd-global-error-100: #fee4e2;
+  --sd-global-error-200: #fecdca;
+  --sd-global-error-300: #fda29b;
+  --sd-global-error-400: #f97066;
+  --sd-global-error-500: #f04438;
+  --sd-global-error-600: #d92d20;
+  --sd-global-error-700: #b42318;
+  --sd-global-error-800: #912018;
+  --sd-global-error-900: #7a271a;
+  --sd-global-primary-25: #fffcf2;
+  --sd-global-primary-50: #fef8dd;
+  --sd-global-primary-100: #fef5cb;
+  --sd-global-primary-200: #ffeb74;
+  --sd-global-primary-300: #ffdd00;
+  --sd-global-primary-400: #f9ca02;
+  --sd-global-primary-500: #f2b705;
+  --sd-global-primary-600: #f0b305;
+  --sd-global-primary-700: #e9a405;
+  --sd-global-primary-800: #e29606;
+  --sd-global-primary-900: #d17407;
+  --sd-global-gray-25: #fcfcfd;
+  --sd-global-gray-50: #f9fafb;
+  --sd-global-gray-100: #f2f4f7;
+  --sd-global-gray-200: #eaecf0;
+  --sd-global-gray-300: #d0d5dd;
+  --sd-global-gray-400: #98a2b3;
+  --sd-global-gray-500: #667085;
+  --sd-global-gray-600: #475467;
+  --sd-global-gray-700: #344054;
+  --sd-global-gray-800: #1d2939;
+  --sd-global-gray-900: #101828;
+}
