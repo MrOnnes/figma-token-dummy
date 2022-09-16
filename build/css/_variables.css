@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 16 Sep 2022 09:33:17 GMT
+ * Generated on Fri, 16 Sep 2022 09:37:39 GMT
  */
 
 :root {
@@ -113,21 +113,21 @@
   --sd-link-100: #d1e9ff;
   --sd-link-50: #eff8ff;
   --sd-link-25: #f5faff;
-  --sd-typo-caption: [object Object];
-  --sd-typo-label: [object Object];
-  --sd-typo-button2: [object Object];
-  --sd-typo-button1: [object Object];
-  --sd-typo-body2: [object Object];
-  --sd-typo-body1: [object Object];
-  --sd-typo-subtitle2: [object Object];
-  --sd-typo-subtitle1: [object Object];
-  --sd-typo-h5: [object Object];
-  --sd-typo-h4: [object Object];
-  --sd-typo-h3: [object Object];
-  --sd-typo-h2: [object Object];
-  --sd-typo-h1: [object Object];
-  --sd-typo-medium: [object Object];
-  --sd-typo-large: [object Object];
-  --sd-typo-x-large: [object Object];
-  --sd-typo-2-x-large: [object Object];
+  --sd-caption: [object Object];
+  --sd-label: [object Object];
+  --sd-button2: [object Object];
+  --sd-button1: [object Object];
+  --sd-body2: [object Object];
+  --sd-body1: [object Object];
+  --sd-subtitle2: [object Object];
+  --sd-subtitle1: [object Object];
+  --sd-h5: [object Object];
+  --sd-h4: [object Object];
+  --sd-h3: [object Object];
+  --sd-h2: [object Object];
+  --sd-h1: [object Object];
+  --sd-medium: [object Object];
+  --sd-large: [object Object];
+  --sd-x-large: [object Object];
+  --sd-2-x-large: [object Object];
 }
