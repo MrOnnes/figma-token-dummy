@@ -1,0 +1,33 @@
+{
+  
+  "color": {
+    "black": { "value": "#000000" },
+    "font": {
+      "primary": { "value": "{color.black.value}" },
+      "input": { "value": "{color.font.primary.value}" }
+    }
+  },
+  "fontFamilies":{
+    "inter":{
+      "value":"Inter",
+      "type": "fontFamilies"
+    }    
+  },
+  "typo": {   
+    
+    "2XLarge":{
+      "value":{
+        "fontFamily":"{fontFamilies.inter}"
+      },
+      "type":"typography"
+    }
+  },
+  
+
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
