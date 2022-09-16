@@ -7,7 +7,10 @@
         "buildPath": "build/css/",
         "files": [{
           "destination": "_variables.css",
-          "format": "css/variables"
+          "format": "css/variables",
+          "options": {
+            "outputReferences" : true
+          }
         }]
       },
       "android": {
@@ -15,7 +18,9 @@
         "buildPath": "build/android/src/main/res/values/",
         "files": [{
           "destination": "style_dictionary_colors.xml",
-          "format": "android/colors"
+          "format": "android/colors",
+          "options": {
+            "outputReferences":true}
         }]
       }
     }
