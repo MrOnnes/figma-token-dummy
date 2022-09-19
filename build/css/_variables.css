@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 19 Sep 2022 02:38:08 GMT
+ * Generated on Mon, 19 Sep 2022 02:51:56 GMT
  */
 
 :root {
@@ -43,7 +43,7 @@
   --sd-main-color-warning-600: #dc6803;
   --sd-main-color-warning-500: #f79009;
   --sd-main-color-warning-400: #fdb022;
-  --sd-main-color-warning-300: #fec84b;
+  --sd-main-color-warning-300: #d00;
   --sd-main-color-warning-200: #fedf89;
   --sd-main-color-warning-100: #fef0c7;
   --sd-main-color-warning-50: #fffaeb;
@@ -112,7 +112,7 @@
   --sd-main-typo-line-heights-2: 60;
   --sd-main-typo-line-heights-1: 72;
   --sd-main-typo-line-heights-0: 90;
-  --sd-main-typo-font-families-inter: Inter;
+  --sd-main-typo-font-families-inter: Poppins;
   --sd-main-typo-caption: [object Object];
   --sd-main-typo-label: [object Object];
   --sd-main-typo-button2: [object Object];
