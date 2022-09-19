@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 19 Sep 2022 03:10:11 GMT
+ * Generated on Mon, 19 Sep 2022 04:41:06 GMT
  */
 
 :root {
@@ -112,8 +112,7 @@
   --sd-main-typo-line-heights-2: 60;
   --sd-main-typo-line-heights-1: 72;
   --sd-main-typo-line-heights-0: 90;
-  --sd-main-typo-font-families-inter: Roboto;
-  --sd-main-color-link-test25: var(--sd-main-color-link-25);
+  --sd-main-typo-font-families-inter: Inter;
   --sd-main-typo-caption: [object Object];
   --sd-main-typo-label: [object Object];
   --sd-main-typo-button2: [object Object];
@@ -130,5 +129,13 @@
   --sd-main-typo-medium: [object Object];
   --sd-main-typo-large: [object Object];
   --sd-main-typo-x-large: [object Object];
+  --sd-main-typo-2-x-largetest-text-decoration: var(--sd-main-typo-text-decoration-none);
+  --sd-main-typo-2-x-largetest-text-case: var(--sd-main-typo-text-case-capitalize);
+  --sd-main-typo-2-x-largetest-paragraph-spacing: var(--sd-main-typo-paragraph-spacing-10);
+  --sd-main-typo-2-x-largetest-letter-spacing: var(--sd-main-typo-letter-spacing-0);
+  --sd-main-typo-2-x-largetest-font-size: var(--sd-main-typo-font-size-10);
+  --sd-main-typo-2-x-largetest-line-height: var(--sd-main-typo-line-heights-0);
+  --sd-main-typo-2-x-largetest-font-weight: var(--sd-main-typo-font-weights-inter-0);
+  --sd-main-typo-2-x-largetest-font-family: var(--sd-main-typo-font-families-inter);
   --sd-main-typo-2-x-large: [object Object];
 }

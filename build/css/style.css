@@ -1,0 +1,12 @@
+@import "_variable.css";
+
+H1 {
+    font-family: var(--sd-main-typo-font-families-inter);
+    font-weight: var(--sd-main-typo-font-weights-inter-1);
+    line-height: var(--sd-main-typo-line-heights-4);
+    font-size: var(--sd-main-typo-font-size-4);
+    letter-spacing: var(--sd-main-typo-letter-spacing-1);
+    word-spacing: var(--sd-main-typo-paragraph-spacing-6);
+    text-transform: var(--sd-main-typo-text-case-capitalize);
+    text-decoration: var(--sd-main-typo-text-decoration-none);
+}
