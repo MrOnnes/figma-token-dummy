@@ -1,9 +1,16 @@
 /**
  * Do not edit directly
- * Generated on Tue, 20 Sep 2022 03:54:38 GMT
+ * Generated on Tue, 20 Sep 2022 04:40:32 GMT
  */
 
 :root {
+  --sd-main-corner-full: 100;
+  --sd-main-corner-xl: 28;
+  --sd-main-corner-l: 16px;
+  --sd-main-corner-m: 0.75rem;
+  --sd-main-corner-s: 8dp;
+  --sd-main-corner-xs: 4;
+  --sd-main-corner-none: 0;
   --sd-main-color-gray-900: #101828;
   --sd-main-color-gray-800: #1d2939;
   --sd-main-color-gray-700: #344054;
