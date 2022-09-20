@@ -2176,7 +2176,7 @@ pre code {
   background-color: #fff;
   background-clip: padding-box;
   border: 1px solid #ced4da;
-  border-radius: 0.17rem;
+  border-radius: var(--sd-main-corner-l);
   -webkit-transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
@@ -2742,7 +2742,7 @@ textarea.form-control {
   padding: 0.5rem 0.75rem;
   font-size: 1rem;
   line-height: 1.3;
-  border-radius: var(--sd-main-corner-full);
+  border-radius: var(--sd-main-corner-l);
   -webkit-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
@@ -11043,7 +11043,7 @@ a {
 
 .btn-flat {
   border-width: 2px;
-  border-radius: 0;
+  border-radius: var(--sd-main-corner-xs);
   line-height: 1;
   padding: 10px 24px 12px;
   font-weight: bold;
@@ -11120,7 +11120,7 @@ a {
   font-size: 18px;
   display: block;
   text-decoration: none;
-  color: #adb5bd;
+  color: var(--sd-main-color-gray-400);
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
@@ -11227,7 +11227,7 @@ a {
 
 .pricing-card.popular .popular-item {
   background: var(--primary);
-  color: #eaf0fc;
+  color: var(--gray);
   font-size: 18px;
   font-weight: 400;
   padding: 7px 0 12px;
@@ -11325,9 +11325,9 @@ textarea {
   border-radius: 50%;
   text-align: center;
   line-height: 40px;
-  border: 2px solid var(--primary);
+  border: 2px solid var(--gray);
   font-size: 18px;
-  color: var(--primary);
+  color: var(--gray);
 }
 
 .circle-100 {
@@ -11336,9 +11336,9 @@ textarea {
   border-radius: 50%;
   text-align: center;
   line-height: 65px;
-  border: 2px solid var(--primary);
+  border: 2px solid var(--gray);
   font-size: 25px;
-  color: var(--primary);
+  color: var(--gray);
   margin: auto;
 }
 
@@ -11445,7 +11445,7 @@ textarea {
 .header .header-form {
   display: block;
   background-color: #f8f9fa;
-  border-radius: 0.17rem;
+  border-radius: var(--sd-main-corner-xs);
   overflow: hidden;
 }
 
