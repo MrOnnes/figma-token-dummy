@@ -1,4 +1,10 @@
 {
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    }
+  },
   "color": {
     "primary": {
       "value": "#ffdd00",
@@ -362,19 +368,19 @@
   },
   "fontWeights": {
     "main-0": {
-      "value": "Bold",
+      "value": 700,
       "type": "fontWeights"
     },
     "main-1": {
-      "value": "Semi Bold",
+      "value": 600,
       "type": "fontWeights"
     },
     "main-2": {
-      "value": "Medium",
+      "value": 500,
       "type": "fontWeights"
     },
     "main-3": {
-      "value": "Regular",
+      "value": 400,
       "type": "fontWeights"
     }
   },
@@ -487,7 +493,7 @@
         "type": "fontFamily"
       },
       "fontWeight": {
-        "value": "Bold",
+        "value": 700,
         "type": "fontWeight"
       },
       "lineHeight": {
@@ -521,7 +527,7 @@
         "type": "fontFamily"
       },
       "fontWeight": {
-        "value": "Semi Bold",
+        "value": 600,
         "type": "fontWeight"
       },
       "lineHeight": {
@@ -555,7 +561,7 @@
         "type": "fontFamily"
       },
       "fontWeight": {
-        "value": "Semi Bold",
+        "value": 600,
         "type": "fontWeight"
       },
       "lineHeight": {
@@ -589,7 +595,7 @@
         "type": "fontFamily"
       },
       "fontWeight": {
-        "value": "Semi Bold",
+        "value": 600,
         "type": "fontWeight"
       },
       "lineHeight": {
@@ -623,7 +629,7 @@
         "type": "fontFamily"
       },
       "fontWeight": {
-        "value": "Semi Bold",
+        "value": 600,
         "type": "fontWeight"
       },
       "lineHeight": {
@@ -657,7 +663,7 @@
         "type": "fontFamily"
       },
       "fontWeight": {
-        "value": "Semi Bold",
+        "value": 600,
         "type": "fontWeight"
       },
       "lineHeight": {
@@ -691,7 +697,7 @@
         "type": "fontFamily"
       },
       "fontWeight": {
-        "value": "Semi Bold",
+        "value": 600,
         "type": "fontWeight"
       },
       "lineHeight": {
@@ -725,7 +731,7 @@
         "type": "fontFamily"
       },
       "fontWeight": {
-        "value": "Semi Bold",
+        "value": 600,
         "type": "fontWeight"
       },
       "lineHeight": {
@@ -759,7 +765,7 @@
         "type": "fontFamily"
       },
       "fontWeight": {
-        "value": "Medium",
+        "value": 500,
         "type": "fontWeight"
       },
       "lineHeight": {
@@ -793,7 +799,7 @@
         "type": "fontFamily"
       },
       "fontWeight": {
-        "value": "Regular",
+        "value": 400,
         "type": "fontWeight"
       },
       "lineHeight": {
@@ -827,7 +833,7 @@
         "type": "fontFamily"
       },
       "fontWeight": {
-        "value": "Regular",
+        "value": 400,
         "type": "fontWeight"
       },
       "lineHeight": {
@@ -861,7 +867,7 @@
         "type": "fontFamily"
       },
       "fontWeight": {
-        "value": "Bold",
+        "value": 700,
         "type": "fontWeight"
       },
       "lineHeight": {
@@ -895,7 +901,7 @@
         "type": "fontFamily"
       },
       "fontWeight": {
-        "value": "Bold",
+        "value": 700,
         "type": "fontWeight"
       },
       "lineHeight": {
@@ -929,7 +935,7 @@
         "type": "fontFamily"
       },
       "fontWeight": {
-        "value": "Semi Bold",
+        "value": 600,
         "type": "fontWeight"
       },
       "lineHeight": {
@@ -963,7 +969,7 @@
         "type": "fontFamily"
       },
       "fontWeight": {
-        "value": "Medium",
+        "value": 500,
         "type": "fontWeight"
       },
       "lineHeight": {
@@ -997,7 +1003,7 @@
         "type": "fontFamily"
       },
       "fontWeight": {
-        "value": "Semi Bold",
+        "value": 600,
         "type": "fontWeight"
       },
       "lineHeight": {
@@ -1031,7 +1037,7 @@
         "type": "fontFamily"
       },
       "fontWeight": {
-        "value": "Regular",
+        "value": 400,
         "type": "fontWeight"
       },
       "lineHeight": {

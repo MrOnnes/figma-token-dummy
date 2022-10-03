@@ -385,18 +385,22 @@ h1, .h1 {
 
 h2, .h2 {
   font-size: var(--sd-typo-h2-font-size);
+  font-weight: var(--sd-typo-h2-font-weight);
 }
 
 h3, .h3 {
   font-size: var(--sd-typo-h3-font-size);
+  font-weight: var(--sd-typo-h3-font-weight);
 }
 
 h4, .h4 {
   font-size: var(--sd-typo-h4-font-size);
+  font-weight: var(--sd-typo-h4-font-weight);
 }
 
 h5, .h5 {
   font-size: var(--sd-typo-h5-font-size);
+  font-weight: var(--sd-typo-h5-font-weight);
 }
 
 .lead {
