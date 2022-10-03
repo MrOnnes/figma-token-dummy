@@ -3,6 +3,10 @@
     "0": {
       "value": "global",
       "type": "other"
+    },
+    "1": {
+      "value": "color",
+      "type": "other"
     }
   },
   "color": {
