@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 03 Oct 2022 06:41:07 GMT
+ * Generated on Mon, 03 Oct 2022 07:41:32 GMT
  */
 
 :root {
@@ -11,7 +11,7 @@
   --sd-typo-caption-text-case: none;
   --sd-typo-caption-paragraph-spacing: 12;
   --sd-typo-caption-letter-spacing: 0%;
-  --sd-typo-caption-font-size: 12;
+  --sd-typo-caption-font-size: 12px;
   --sd-typo-caption-line-height: 18;
   --sd-typo-caption-font-weight: Regular;
   --sd-typo-caption-font-family: Inter;
@@ -19,7 +19,7 @@
   --sd-typo-label-text-case: capitalize;
   --sd-typo-label-paragraph-spacing: 12;
   --sd-typo-label-letter-spacing: 0%;
-  --sd-typo-label-font-size: 12;
+  --sd-typo-label-font-size: 12px;
   --sd-typo-label-line-height: 18;
   --sd-typo-label-font-weight: Semi Bold;
   --sd-typo-label-font-family: Inter;
@@ -27,7 +27,7 @@
   --sd-typo-button2-text-case: capitalize;
   --sd-typo-button2-paragraph-spacing: 14;
   --sd-typo-button2-letter-spacing: 0%;
-  --sd-typo-button2-font-size: 12;
+  --sd-typo-button2-font-size: 12px;
   --sd-typo-button2-line-height: 20;
   --sd-typo-button2-font-weight: Medium;
   --sd-typo-button2-font-family: Inter;
@@ -35,7 +35,7 @@
   --sd-typo-button1-text-case: capitalize;
   --sd-typo-button1-paragraph-spacing: 16;
   --sd-typo-button1-letter-spacing: 0%;
-  --sd-typo-button1-font-size: 14;
+  --sd-typo-button1-font-size: 14px;
   --sd-typo-button1-line-height: 24;
   --sd-typo-button1-font-weight: Semi Bold;
   --sd-typo-button1-font-family: Inter;
@@ -43,7 +43,7 @@
   --sd-typo-subtitle2-text-case: capitalize;
   --sd-typo-subtitle2-paragraph-spacing: 14;
   --sd-typo-subtitle2-letter-spacing: 0%;
-  --sd-typo-subtitle2-font-size: 14;
+  --sd-typo-subtitle2-font-size: 14px;
   --sd-typo-subtitle2-line-height: 20;
   --sd-typo-subtitle2-font-weight: Bold;
   --sd-typo-subtitle2-font-family: Inter;
@@ -51,7 +51,7 @@
   --sd-typo-subtitle1-text-case: capitalize;
   --sd-typo-subtitle1-paragraph-spacing: 16;
   --sd-typo-subtitle1-letter-spacing: 0%;
-  --sd-typo-subtitle1-font-size: 16;
+  --sd-typo-subtitle1-font-size: 16px;
   --sd-typo-subtitle1-line-height: 24;
   --sd-typo-subtitle1-font-weight: Bold;
   --sd-typo-subtitle1-font-family: Inter;
@@ -59,7 +59,7 @@
   --sd-typo-body2-text-case: none;
   --sd-typo-body2-paragraph-spacing: 14;
   --sd-typo-body2-letter-spacing: 0%;
-  --sd-typo-body2-font-size: 14;
+  --sd-typo-body2-font-size: 14px;
   --sd-typo-body2-line-height: 20;
   --sd-typo-body2-font-weight: Regular;
   --sd-typo-body2-font-family: Inter;
@@ -67,7 +67,7 @@
   --sd-typo-body1-text-case: none;
   --sd-typo-body1-paragraph-spacing: 16;
   --sd-typo-body1-letter-spacing: 0%;
-  --sd-typo-body1-font-size: 16;
+  --sd-typo-body1-font-size: 16px;
   --sd-typo-body1-line-height: 24;
   --sd-typo-body1-font-weight: Regular;
   --sd-typo-body1-font-family: Inter;
@@ -75,7 +75,7 @@
   --sd-typo-h5-text-case: capitalize;
   --sd-typo-h5-paragraph-spacing: 16;
   --sd-typo-h5-letter-spacing: 0%;
-  --sd-typo-h5-font-size: 16;
+  --sd-typo-h5-font-size: 16px;
   --sd-typo-h5-line-height: 24;
   --sd-typo-h5-font-weight: Medium;
   --sd-typo-h5-font-family: Inter;
@@ -83,7 +83,7 @@
   --sd-typo-h4-text-case: capitalize;
   --sd-typo-h4-paragraph-spacing: 18;
   --sd-typo-h4-letter-spacing: 0%;
-  --sd-typo-h4-font-size: 18;
+  --sd-typo-h4-font-size: 18px;
   --sd-typo-h4-line-height: 28;
   --sd-typo-h4-font-weight: Semi Bold;
   --sd-typo-h4-font-family: Inter;
@@ -91,7 +91,7 @@
   --sd-typo-h3-text-case: capitalize;
   --sd-typo-h3-paragraph-spacing: 20;
   --sd-typo-h3-letter-spacing: 0%;
-  --sd-typo-h3-font-size: 20;
+  --sd-typo-h3-font-size: 20px;
   --sd-typo-h3-line-height: 30;
   --sd-typo-h3-font-weight: Semi Bold;
   --sd-typo-h3-font-family: Inter;
@@ -99,7 +99,7 @@
   --sd-typo-h2-text-case: capitalize;
   --sd-typo-h2-paragraph-spacing: 24;
   --sd-typo-h2-letter-spacing: 0%;
-  --sd-typo-h2-font-size: 24;
+  --sd-typo-h2-font-size: 24px;
   --sd-typo-h2-line-height: 32;
   --sd-typo-h2-font-weight: Semi Bold;
   --sd-typo-h2-font-family: Inter;
@@ -107,7 +107,7 @@
   --sd-typo-h1-text-case: capitalize;
   --sd-typo-h1-paragraph-spacing: 30;
   --sd-typo-h1-letter-spacing: 0%;
-  --sd-typo-h1-font-size: 30;
+  --sd-typo-h1-font-size: 30px;
   --sd-typo-h1-line-height: 38;
   --sd-typo-h1-font-weight: Semi Bold;
   --sd-typo-h1-font-family: Inter;
@@ -115,7 +115,7 @@
   --sd-typo-display-medium-text-case: capitalize;
   --sd-typo-display-medium-paragraph-spacing: 36;
   --sd-typo-display-medium-letter-spacing: -2%;
-  --sd-typo-display-medium-font-size: 36;
+  --sd-typo-display-medium-font-size: 36px;
   --sd-typo-display-medium-line-height: 44;
   --sd-typo-display-medium-font-weight: Semi Bold;
   --sd-typo-display-medium-font-family: Inter;
@@ -123,7 +123,7 @@
   --sd-typo-display-large-text-case: capitalize;
   --sd-typo-display-large-paragraph-spacing: 48;
   --sd-typo-display-large-letter-spacing: -2%;
-  --sd-typo-display-large-font-size: 48;
+  --sd-typo-display-large-font-size: 48px;
   --sd-typo-display-large-line-height: 60;
   --sd-typo-display-large-font-weight: Semi Bold;
   --sd-typo-display-large-font-family: Inter;
@@ -131,7 +131,7 @@
   --sd-typo-display-xlarge-text-case: capitalize;
   --sd-typo-display-xlarge-paragraph-spacing: 60;
   --sd-typo-display-xlarge-letter-spacing: -2%;
-  --sd-typo-display-xlarge-font-size: 60;
+  --sd-typo-display-xlarge-font-size: 60px;
   --sd-typo-display-xlarge-line-height: 72;
   --sd-typo-display-xlarge-font-weight: Semi Bold;
   --sd-typo-display-xlarge-font-family: Inter;
@@ -139,7 +139,7 @@
   --sd-typo-display-2xlarge-text-case: capitalize;
   --sd-typo-display-2xlarge-paragraph-spacing: 72;
   --sd-typo-display-2xlarge-letter-spacing: -2%;
-  --sd-typo-display-2xlarge-font-size: 72;
+  --sd-typo-display-2xlarge-font-size: 72px;
   --sd-typo-display-2xlarge-line-height: 90;
   --sd-typo-display-2xlarge-font-weight: Bold;
   --sd-typo-display-2xlarge-font-family: Inter;
@@ -156,21 +156,21 @@
   --sd-paragraph-spacing-0: 12;
   --sd-letter-spacing-1: 0%;
   --sd-letter-spacing-0: -2%;
-  --sd-font-size-10: 72;
-  --sd-font-size-9: 60;
-  --sd-font-size-8: 48;
-  --sd-font-size-7: 36;
-  --sd-font-size-6: 30;
-  --sd-font-size-5: 24;
-  --sd-font-size-4: 20;
-  --sd-font-size-3: 18;
-  --sd-font-size-2: 16;
-  --sd-font-size-1: 14;
-  --sd-font-size-0: 12;
-  --sd-font-weights-inter-3: Regular;
-  --sd-font-weights-inter-2: Medium;
-  --sd-font-weights-inter-1: Semi Bold;
-  --sd-font-weights-inter-0: Bold;
+  --sd-font-size-10: 72px;
+  --sd-font-size-9: 60px;
+  --sd-font-size-8: 48px;
+  --sd-font-size-7: 36px;
+  --sd-font-size-6: 30px;
+  --sd-font-size-5: 24px;
+  --sd-font-size-4: 20px;
+  --sd-font-size-3: 18px;
+  --sd-font-size-2: 16px;
+  --sd-font-size-1: 14px;
+  --sd-font-size-0: 12px;
+  --sd-font-weights-main-3: Regular;
+  --sd-font-weights-main-2: Medium;
+  --sd-font-weights-main-1: Semi Bold;
+  --sd-font-weights-main-0: Bold;
   --sd-line-heights-10: 18;
   --sd-line-heights-9: 20;
   --sd-line-heights-8: 24;
@@ -188,6 +188,28 @@
   --sd-corner-medium: 12;
   --sd-corner-small: 8;
   --sd-corner-none: 0;
+  --sd-ref-success-900: #054f31;
+  --sd-ref-success-800: #05603a;
+  --sd-ref-success-700: #027a48;
+  --sd-ref-success-600: #039855;
+  --sd-ref-success-500: #12b76a;
+  --sd-ref-success-400: #32d583;
+  --sd-ref-success-300: #6ce9a6;
+  --sd-ref-success-200: #a6f4c5;
+  --sd-ref-success-100: #d1fadf;
+  --sd-ref-success-50: #ecfdf3;
+  --sd-ref-success-25: #f6fef9;
+  --sd-ref-warning-900: #7a2e0e;
+  --sd-ref-warning-800: #93370d;
+  --sd-ref-warning-700: #b54708;
+  --sd-ref-warning-600: #dc6803;
+  --sd-ref-warning-500: #f79009;
+  --sd-ref-warning-400: #fdb022;
+  --sd-ref-warning-300: #fec84b;
+  --sd-ref-warning-200: #fedf89;
+  --sd-ref-warning-100: #fef0c7;
+  --sd-ref-warning-50: #fffaeb;
+  --sd-ref-warning-25: #fffcf5;
   --sd-ref-gray-900: #101828;
   --sd-ref-gray-800: #1d2939;
   --sd-ref-gray-700: #344054;
@@ -221,6 +243,14 @@
   --sd-ref-main-100: #fef5cb;
   --sd-ref-main-50: #fef8dd;
   --sd-ref-main-25: #fffcf2;
+  --sd-color-on-success-container: #d1fadf;
+  --sd-color-on-warning-container: #fef0c7;
+  --sd-color-on-error-container: #fee4e2;
+  --sd-color-on-primary: #1d2939;
+  --sd-color-success-container: #d1fadf;
+  --sd-color-success: #12b76a;
+  --sd-color-warning-container: #fef0c7;
+  --sd-color-warning: #f79009;
   --sd-color-error-container: #fee4e2;
   --sd-color-error: #f04438;
   --sd-color-primary-container: #fef5cb;

@@ -2,12 +2,20 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 03 Oct 2022 06:41:07 GMT
+  Generated on Mon, 03 Oct 2022 07:41:33 GMT
 -->
 <resources>
   <color name="color_primary">#ffdd00</color>
   <color name="color_primary_container">#fef5cb</color>
   <color name="color_error">#f04438</color>
   <color name="color_error_container">#fee4e2</color>
+  <color name="color_warning">#f79009</color>
+  <color name="color_warning_container">#fef0c7</color>
+  <color name="color_success">#12b76a</color>
+  <color name="color_success_container">#d1fadf</color>
+  <color name="color_on_primary">#1d2939</color>
+  <color name="color_on_error_container">#fee4e2</color>
+  <color name="color_on_warning_container">#fef0c7</color>
+  <color name="color_on_success_container">#d1fadf</color>
   
 </resources>
