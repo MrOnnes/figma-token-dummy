@@ -1,4 +1,31 @@
 {
+  "corner": {
+    "none": {
+      "value": 0,
+      "type": "borderRadius",
+      "description": "none"
+    },
+    "small": {
+      "value": 8,
+      "type": "borderRadius",
+      "description": "small"
+    },
+    "medium": {
+      "value": 12,
+      "type": "borderRadius",
+      "description": "medium"
+    },
+    "large": {
+      "value": 16,
+      "type": "borderRadius",
+      "description": "large"
+    },
+    "extralarge": {
+      "value": 28,
+      "type": "borderRadius",
+      "description": "extra large"
+    }
+  },
   "typo": {
     "display-2xlarge": {
       "fontFamily": {
