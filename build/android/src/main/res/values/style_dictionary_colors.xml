@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 04 Oct 2022 03:47:50 GMT
+  Generated on Tue, 04 Oct 2022 06:09:54 GMT
 -->
 <resources>
   <color name="color_primary">#ffdd00</color>
@@ -13,6 +13,8 @@
   <color name="color_warning_container">#fef0c7</color>
   <color name="color_success">#12b76a</color>
   <color name="color_success_container">#d1fadf</color>
+  <color name="color_link">#1570ef</color>
+  <color name="color_link_container">#b2ddff</color>
   <color name="color_on_primary">#1d2939</color>
   <color name="color_on_error_container">#fee4e2</color>
   <color name="color_on_warning_container">#fef0c7</color>

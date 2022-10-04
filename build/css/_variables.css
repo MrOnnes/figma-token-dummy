@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 04 Oct 2022 03:47:50 GMT
+ * Generated on Tue, 04 Oct 2022 06:09:54 GMT
  */
 
 :root {
@@ -9,6 +9,8 @@
   --sd-color-on-warning-container: #fef0c7;
   --sd-color-on-error-container: #fee4e2;
   --sd-color-on-primary: #1d2939;
+  --sd-color-link-container: #b2ddff;
+  --sd-color-link: #1570ef;
   --sd-color-success-container: #d1fadf;
   --sd-color-success: #12b76a;
   --sd-color-warning-container: #fef0c7;
@@ -17,12 +19,13 @@
   --sd-color-error: #f04438;
   --sd-color-primary-container: #fef5cb;
   --sd-color-primary: #ffdd00;
+  --sd-font-families-sans-serif: Inter;
   --sd-typo-caption-text-decoration: none;
   --sd-typo-caption-text-case: none;
   --sd-typo-caption-paragraph-spacing: 12;
   --sd-typo-caption-letter-spacing: 0%;
   --sd-typo-caption-font-size: 12px;
-  --sd-typo-caption-line-height: 18;
+  --sd-typo-caption-line-height: 18px;
   --sd-typo-caption-font-weight: 400;
   --sd-typo-caption-font-family: Inter;
   --sd-typo-label-text-decoration: none;
@@ -30,7 +33,7 @@
   --sd-typo-label-paragraph-spacing: 12;
   --sd-typo-label-letter-spacing: 0%;
   --sd-typo-label-font-size: 12px;
-  --sd-typo-label-line-height: 18;
+  --sd-typo-label-line-height: 18px;
   --sd-typo-label-font-weight: 600;
   --sd-typo-label-font-family: Inter;
   --sd-typo-button2-text-decoration: none;
@@ -38,7 +41,7 @@
   --sd-typo-button2-paragraph-spacing: 14;
   --sd-typo-button2-letter-spacing: 0%;
   --sd-typo-button2-font-size: 12px;
-  --sd-typo-button2-line-height: 20;
+  --sd-typo-button2-line-height: 20px;
   --sd-typo-button2-font-weight: 500;
   --sd-typo-button2-font-family: Inter;
   --sd-typo-button1-text-decoration: none;
@@ -46,7 +49,7 @@
   --sd-typo-button1-paragraph-spacing: 16;
   --sd-typo-button1-letter-spacing: 0%;
   --sd-typo-button1-font-size: 14px;
-  --sd-typo-button1-line-height: 24;
+  --sd-typo-button1-line-height: 24px;
   --sd-typo-button1-font-weight: 600;
   --sd-typo-button1-font-family: Inter;
   --sd-typo-subtitle2-text-decoration: none;
@@ -54,7 +57,7 @@
   --sd-typo-subtitle2-paragraph-spacing: 14;
   --sd-typo-subtitle2-letter-spacing: 0%;
   --sd-typo-subtitle2-font-size: 14px;
-  --sd-typo-subtitle2-line-height: 20;
+  --sd-typo-subtitle2-line-height: 20px;
   --sd-typo-subtitle2-font-weight: 700;
   --sd-typo-subtitle2-font-family: Inter;
   --sd-typo-subtitle1-text-decoration: none;
@@ -62,7 +65,7 @@
   --sd-typo-subtitle1-paragraph-spacing: 16;
   --sd-typo-subtitle1-letter-spacing: 0%;
   --sd-typo-subtitle1-font-size: 16px;
-  --sd-typo-subtitle1-line-height: 24;
+  --sd-typo-subtitle1-line-height: 24px;
   --sd-typo-subtitle1-font-weight: 700;
   --sd-typo-subtitle1-font-family: Inter;
   --sd-typo-body2-text-decoration: none;
@@ -70,7 +73,7 @@
   --sd-typo-body2-paragraph-spacing: 14;
   --sd-typo-body2-letter-spacing: 0%;
   --sd-typo-body2-font-size: 14px;
-  --sd-typo-body2-line-height: 20;
+  --sd-typo-body2-line-height: 20px;
   --sd-typo-body2-font-weight: 400;
   --sd-typo-body2-font-family: Inter;
   --sd-typo-body1-text-decoration: none;
@@ -78,7 +81,7 @@
   --sd-typo-body1-paragraph-spacing: 16;
   --sd-typo-body1-letter-spacing: 0%;
   --sd-typo-body1-font-size: 16px;
-  --sd-typo-body1-line-height: 24;
+  --sd-typo-body1-line-height: 24px;
   --sd-typo-body1-font-weight: 400;
   --sd-typo-body1-font-family: Inter;
   --sd-typo-h5-text-decoration: none;
@@ -86,7 +89,7 @@
   --sd-typo-h5-paragraph-spacing: 16;
   --sd-typo-h5-letter-spacing: 0%;
   --sd-typo-h5-font-size: 16px;
-  --sd-typo-h5-line-height: 24;
+  --sd-typo-h5-line-height: 24px;
   --sd-typo-h5-font-weight: 500;
   --sd-typo-h5-font-family: Inter;
   --sd-typo-h4-text-decoration: none;
@@ -94,7 +97,7 @@
   --sd-typo-h4-paragraph-spacing: 18;
   --sd-typo-h4-letter-spacing: 0%;
   --sd-typo-h4-font-size: 18px;
-  --sd-typo-h4-line-height: 28;
+  --sd-typo-h4-line-height: 28px;
   --sd-typo-h4-font-weight: 600;
   --sd-typo-h4-font-family: Inter;
   --sd-typo-h3-text-decoration: none;
@@ -102,7 +105,7 @@
   --sd-typo-h3-paragraph-spacing: 20;
   --sd-typo-h3-letter-spacing: 0%;
   --sd-typo-h3-font-size: 20px;
-  --sd-typo-h3-line-height: 30;
+  --sd-typo-h3-line-height: 30px;
   --sd-typo-h3-font-weight: 600;
   --sd-typo-h3-font-family: Inter;
   --sd-typo-h2-text-decoration: none;
@@ -110,7 +113,7 @@
   --sd-typo-h2-paragraph-spacing: 24;
   --sd-typo-h2-letter-spacing: 0%;
   --sd-typo-h2-font-size: 24px;
-  --sd-typo-h2-line-height: 32;
+  --sd-typo-h2-line-height: 32px;
   --sd-typo-h2-font-weight: 600;
   --sd-typo-h2-font-family: Inter;
   --sd-typo-h1-text-decoration: none;
@@ -118,7 +121,7 @@
   --sd-typo-h1-paragraph-spacing: 30;
   --sd-typo-h1-letter-spacing: 0%;
   --sd-typo-h1-font-size: 30px;
-  --sd-typo-h1-line-height: 38;
+  --sd-typo-h1-line-height: 38px;
   --sd-typo-h1-font-weight: 600;
   --sd-typo-h1-font-family: Inter;
   --sd-typo-display-medium-text-decoration: none;
@@ -126,7 +129,7 @@
   --sd-typo-display-medium-paragraph-spacing: 36;
   --sd-typo-display-medium-letter-spacing: -2%;
   --sd-typo-display-medium-font-size: 36px;
-  --sd-typo-display-medium-line-height: 44;
+  --sd-typo-display-medium-line-height: 44px;
   --sd-typo-display-medium-font-weight: 600;
   --sd-typo-display-medium-font-family: Inter;
   --sd-typo-display-large-text-decoration: none;
@@ -134,7 +137,7 @@
   --sd-typo-display-large-paragraph-spacing: 48;
   --sd-typo-display-large-letter-spacing: -2%;
   --sd-typo-display-large-font-size: 48px;
-  --sd-typo-display-large-line-height: 60;
+  --sd-typo-display-large-line-height: 60px;
   --sd-typo-display-large-font-weight: 600;
   --sd-typo-display-large-font-family: Inter;
   --sd-typo-display-xlarge-text-decoration: none;
@@ -142,7 +145,7 @@
   --sd-typo-display-xlarge-paragraph-spacing: 60;
   --sd-typo-display-xlarge-letter-spacing: -2%;
   --sd-typo-display-xlarge-font-size: 60px;
-  --sd-typo-display-xlarge-line-height: 72;
+  --sd-typo-display-xlarge-line-height: 72px;
   --sd-typo-display-xlarge-font-weight: 600;
   --sd-typo-display-xlarge-font-family: Inter;
   --sd-typo-display-2xlarge-text-decoration: none;
@@ -150,7 +153,7 @@
   --sd-typo-display-2xlarge-paragraph-spacing: 72;
   --sd-typo-display-2xlarge-letter-spacing: -2%;
   --sd-typo-display-2xlarge-font-size: 72px;
-  --sd-typo-display-2xlarge-line-height: 90;
+  --sd-typo-display-2xlarge-line-height: 90px;
   --sd-typo-display-2xlarge-font-weight: 700;
   --sd-typo-display-2xlarge-font-family: Inter;
   --sd-corner-extralarge-px: 28px;
