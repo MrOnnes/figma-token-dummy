@@ -1,9 +1,11 @@
 /**
  * Do not edit directly
- * Generated on Tue, 04 Oct 2022 06:09:54 GMT
+ * Generated on Tue, 04 Oct 2022 07:49:18 GMT
  */
 
 :root {
+  --sd-color-disabled: #f2f4f7;
+  --sd-color-placeholder: #98a2b3;
   --sd-color-outline: #344054;
   --sd-color-on-success-container: #d1fadf;
   --sd-color-on-warning-container: #fef0c7;

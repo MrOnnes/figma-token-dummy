@@ -690,6 +690,14 @@
     "outline": {
       "value": "#344054",
       "type": "color"
+    },
+    "placeholder": {
+      "value": "#98a2b3",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "#f2f4f7",
+      "type": "color"
     }
   }
 }
