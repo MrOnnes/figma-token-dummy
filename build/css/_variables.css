@@ -1,9 +1,10 @@
 /**
  * Do not edit directly
- * Generated on Tue, 04 Oct 2022 03:23:24 GMT
+ * Generated on Tue, 04 Oct 2022 03:47:50 GMT
  */
 
 :root {
+  --sd-color-outline: #344054;
   --sd-color-on-success-container: #d1fadf;
   --sd-color-on-warning-container: #fef0c7;
   --sd-color-on-error-container: #fee4e2;
@@ -152,9 +153,13 @@
   --sd-typo-display-2xlarge-line-height: 90;
   --sd-typo-display-2xlarge-font-weight: 700;
   --sd-typo-display-2xlarge-font-family: Inter;
-  --sd-corner-extralarge: 28;
-  --sd-corner-large: 16;
-  --sd-corner-medium: 12;
-  --sd-corner-small: 8;
-  --sd-corner-none: 0;
+  --sd-corner-extralarge-px: 28px;
+  --sd-corner-large-px: 16px;
+  --sd-corner-medium-px: 12px;
+  --sd-corner-small-px: 8px;
+  --sd-shape-extralarge: 28;
+  --sd-shape-large: 16;
+  --sd-shape-medium: 12;
+  --sd-shape-small: 8;
+  --sd-shape-none: 0;
 }

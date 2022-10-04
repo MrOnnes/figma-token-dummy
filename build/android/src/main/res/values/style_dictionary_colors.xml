@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 04 Oct 2022 03:23:24 GMT
+  Generated on Tue, 04 Oct 2022 03:47:50 GMT
 -->
 <resources>
   <color name="color_primary">#ffdd00</color>
@@ -17,5 +17,6 @@
   <color name="color_on_error_container">#fee4e2</color>
   <color name="color_on_warning_container">#fef0c7</color>
   <color name="color_on_success_container">#d1fadf</color>
+  <color name="color_outline">#344054</color>
   
 </resources>

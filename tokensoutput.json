@@ -1,5 +1,5 @@
 {
-  "corner": {
+  "shape": {
     "none": {
       "value": 0,
       "type": "borderRadius",
@@ -24,6 +24,24 @@
       "value": 28,
       "type": "borderRadius",
       "description": "extra large"
+    }
+  },
+  "corner": {
+    "small-px": {
+      "value": "8px",
+      "type": "borderRadius"
+    },
+    "medium-px": {
+      "value": "12px",
+      "type": "borderRadius"
+    },
+    "large-px": {
+      "value": "16px",
+      "type": "borderRadius"
+    },
+    "extralarge-px": {
+      "value": "28px",
+      "type": "borderRadius"
     }
   },
   "typo": {
@@ -653,6 +671,10 @@
     },
     "on-success-container": {
       "value": "#d1fadf",
+      "type": "color"
+    },
+    "outline": {
+      "value": "#344054",
       "type": "color"
     }
   }
