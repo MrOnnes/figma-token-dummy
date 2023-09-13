@@ -1,0 +1,29 @@
+name: Create Dynamic Version Tag on Merge
+
+on:
+  pull_request:
+    types:
+      - closed
+
+jobs:
+  create-tag:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Create Dynamic Version Tag on Merge
+        if: github.event.pull_request.merged == true
+        run: |
+          # Mendapatkan nomor versi dari package.json
+          version=$(jq -r .version package.json)
+          tag="v$version"
+
+          # Beralih ke branch main
+          git checkout main
+          git pull origin main
+
+          # Membuat tag baru dengan nomor versi yang dinamis
+          git tag -a "$tag" -m "Versi $version"
+          git push origin "$tag"
