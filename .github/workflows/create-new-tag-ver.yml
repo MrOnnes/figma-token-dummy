@@ -27,6 +27,12 @@ jobs:
           # Mendapatkan versi saat ini dari package.json
           current_version=$(jq -r .version package.json)
 
+          # Cek apakah versi ada atau tidak
+          if [[ "$current_version" == "null" || -z "$current_version" ]]; then
+            echo "Tidak dapat menemukan versi dalam package.json."
+            exit 1
+          fi
+
           # Memisahkan versi menjadi array berdasarkan tanda titik (.)
           IFS='.' read -ra version_parts <<< "$current_version"
 

@@ -1,4 +1,6 @@
 {
+  "name": "dummy-figma-token",
+  "version": "1.0.0",
   "dependencies": {
     "@ctrl/tinycolor": "^3.4.0",
     "token-transformer": "^0.0.27"
@@ -8,6 +10,5 @@
     "jest": "^27.0.6",
     "style-dictionary": "^3.7.1",
     "ts-jest": "^27.0.3"
-  },
-  "version": "null..1"
+  }
 }
